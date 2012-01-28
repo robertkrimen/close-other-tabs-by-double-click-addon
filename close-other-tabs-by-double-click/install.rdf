@@ -4,7 +4,7 @@
 
   <Description about="urn:mozilla:install-manifest">
   
-    <!--<em:type>2</em:type> [> 2 means an extension <]-->
+    <em:type>2</em:type>
     <em:id>close-other-tabs-by-double-click@04a5b2a8-2d53-43d5-b3cc-b2ca846f0b9d</em:id>
     <em:name>Close Other Tabs By Double Click</em:name>
     <em:version>1.0</em:version>
