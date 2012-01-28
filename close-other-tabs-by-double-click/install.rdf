@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+  <Description about="urn:mozilla:install-manifest">
+  
+    <!--<em:type>2</em:type> [> 2 means an extension <]-->
+    <em:id>close-other-tabs-by-double-click@04a5b2a8-2d53-43d5-b3cc-b2ca846f0b9d</em:id>
+    <em:name>Close Other Tabs By Double Click</em:name>
+    <em:version>1.0</em:version>
+    <em:description>Close other tabs by double-clicking the one you want to keep</em:description>
+    <em:creator>Robert K</em:creator>
+    <em:homepageURL>https://github.com/robertkrimen/xpi-close-other-tabs-by-double-click</em:homepageURL>
+
+    <!-- Firefox -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>1.5</em:minVersion>
+        <em:maxVersion>9.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+
+  </Description>
+
+</RDF>
