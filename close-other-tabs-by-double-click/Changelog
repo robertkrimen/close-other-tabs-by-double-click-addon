@@ -1,5 +1,8 @@
-1.1 Wednesday February 01 12:41:02 PST 2012:
+1.02 Friday February 03 15:37:10 PST 2012:
+- Fix crash when double-clicking on non-tab
+
+1.01 Wednesday February 01 12:41:02 PST 2012:
 - Mark compatible with Firefox 10.0
 
-1.0 2012-01-28:
+1.00 2012-01-28:
 - Initial release

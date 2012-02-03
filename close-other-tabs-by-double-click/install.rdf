@@ -7,7 +7,7 @@
     <em:type>2</em:type>
     <em:id>close-other-tabs-by-double-click@04a5b2a8-2d53-43d5-b3cc-b2ca846f0b9d</em:id>
     <em:name>Close Other Tabs By Double Click</em:name>
-    <em:version>1.01</em:version>
+    <em:version>1.02</em:version>
     <em:description>Close other tabs by double-clicking the one you want to keep</em:description>
     <em:creator>Robert K</em:creator>
     <em:homepageURL>https://github.com/robertkrimen/xpi-close-other-tabs-by-double-click</em:homepageURL>

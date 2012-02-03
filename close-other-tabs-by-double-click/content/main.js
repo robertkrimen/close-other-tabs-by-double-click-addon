@@ -7,6 +7,8 @@ window.addEventListener( 'load', function(){
 	              XPathResult.FIRST_ORDERED_NODE_TYPE,
 	              null
 	            ).singleNodeValue;
+        if ( !tab )
+            return;
         var tabs = gBrowser.tabs;
         for ( var i = tabs.length - 1; i >= 0; --i ) {
             if ( tab !== tabs[i] )
