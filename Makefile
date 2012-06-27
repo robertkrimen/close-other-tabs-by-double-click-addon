@@ -1,4 +1,8 @@
-.PHONY: all
+.PHONY: xpi install
 
-all:
-	cd close-other-tabs-by-double-click && zip --exclude *.swp -r ../close-other-tabs-by-double-click.xpi *
+xpi:
+	cfx xpi
+
+install: xpi
+	open -a Firefox close-other-tabs-by-double-click.xpi
+

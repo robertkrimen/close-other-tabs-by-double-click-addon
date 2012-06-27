@@ -2,8 +2,9 @@
     "name": "close-other-tabs-by-double-click", 
     "license": "MPL 2.0", 
     "author": "Robert Krimen <robertkrimen@gmail.com>", 
+    "homepage": "http://github.com/robertkrimen/close-other-tabs-by-double-click-addon",
     "version": "1.1", 
     "fullName": "Close Other Tabs by Double-Click", 
-    "id": "ec8030f7-c20a-464f-9b0e-13a3a9e97384",
-    "description": "Close other tabs by double-clicking on the one you want to keep. The reset will be closed."
+    "id": "close-other-tabs-by-double-click@04a5b2a8-2d53-43d5-b3cc-b2ca846f0b9d",
+    "description": "Close other tabs by double-clicking on the one you want to keep. The rest will be closed."
 }

@@ -1,6 +1,6 @@
 var main = require("main");
 
 exports.test_run = function(test) {
-  test.pass("Unit test running!");
+  test.pass("Nothing happens.");
 };
 
