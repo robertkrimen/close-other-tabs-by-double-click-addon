@@ -1,3 +1,0 @@
-content	close-other-tabs-by-double-click content/
-overlay chrome://browser/content/browser.xul chrome://close-other-tabs-by-double-click/content/overlay.xul
-locale close-other-tabs-by-double-click	en-US locale/en-US/

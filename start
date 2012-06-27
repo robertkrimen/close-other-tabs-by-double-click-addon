@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd addon-sdk && source bin/activate
+cd ..
